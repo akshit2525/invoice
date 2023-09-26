@@ -106,7 +106,7 @@ class _InvoicegenratorState extends State<Invoicegenrator> {
                       height: 10,
                     ),
                     SizedBox(
-                      width: 180,
+                      width: 185,
                       child: TextField(
                         controller: txtPrices,
                         keyboardType: TextInputType.number,
